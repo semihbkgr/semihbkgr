@@ -1,5 +1,4 @@
-### SemihBKGR :snowflake::black_heart::musical_note:
-
+### SemihBKGR :black_heart:
 
 <div style="display: inline">
 <img src="./resources/java.svg?raw=true" width="50px">
