@@ -1,9 +1,7 @@
 ### SemihBKGR 
 
-❄️🍃
-
 <div>
-<img src="./resources/java.svg?raw=true" alt="java logo" width="45px">
-<img src="./resources/go.svg?raw=true" alt="go logo" width="45px">
-<img src="./resources/kotlin.svg?raw=true" alt="kotlin logo" width="45px">
+    <img src="./resources/java.svg" alt="java logo" width="65">
+    <img src="./resources/go.svg" alt="go logo" width="65">
+    <img src="./resources/kotlin.svg" alt="kotlin logo" width="60">
 </div>
